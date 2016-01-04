@@ -57,18 +57,18 @@ Screenshots
 
 > Start
 
-![alt tag](https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_01.png =800x600)
+<img src="https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_01.png" alt="alt text" width="800" height="600">
 
 > Alarm list #1
 
-![alt tag](https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_02.png =800x600)
+<img src="https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_02.png" alt="alt text" width="800" height="600">
 
 > Alarm list #2
 
-![alt tag](https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_03.png =800x600)
+<img src="https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_03.png" alt="alt text" width="800" height="600">
 
 > Edit an alarm
 
-![alt tag](https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_04.png =800x600)
+<img src="https://github.com/godmode2k/mobile_app_examples/raw/master/Android/Alarm/screenshots/screenshot_04.png" alt="alt text" width="800" height="600">
 
 
