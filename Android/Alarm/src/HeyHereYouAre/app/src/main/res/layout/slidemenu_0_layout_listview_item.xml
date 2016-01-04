@@ -42,7 +42,7 @@
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_margin="3dp"
-        android:layout_gravity="left"
+        android:layout_gravity="center|center_vertical"
         android:gravity="center"
         android:scaleType="fitXY"
         android:src="@mipmap/ic_launcher" />
