@@ -1,10 +1,6 @@
-Mobile App Examples
-===============
-
-
 Summary
 ----------
-> Mobile App (Android, ...) examples
+> Mobile Android App examples
 
 
 Environment
@@ -18,6 +14,22 @@ Environment
         SDK: ...
     }
 
+
+Files
+----------
+> as following or you should make whatever you want
+
+    ./Android {
+        // Alarm App
+        - Alarm/src/HeyHereYouAre
+
+        // ...
+        -
+    }
+
+    ./ ... {
+    }
+	  
 
 Note
 ----------

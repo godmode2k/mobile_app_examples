@@ -26,14 +26,14 @@ Files
         - Save/Load
         - The screen when fired an alarm
         - BroadcastReceiver for Notification (auto canceled) and start Activity
-          (Notification will be removed for low API Level device, Alarm screen only)
+          (Notification will be removed for lower API Level device, Alarm screen only)
         - App/Contact list for launch and dial the number
         -
 
         // TODO:
         - Filter the duplicated datetime
         - Implement Service class for running always
-          and Repeat an alarm daily
+          and repeat an alarm daily
         - ...
 
 
